@@ -10,4 +10,4 @@ send the message to Pid.
 
 For example, it could be used for wrapping
 file handles. The file is then closed automatically when there are no one
-referencing the file, there by garbage collect files.
+referencing the file, thereby garbage collect files.
